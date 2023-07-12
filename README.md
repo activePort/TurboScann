@@ -27,7 +27,7 @@ After getting the list of ports that are open, it performs another scan to deter
 <h2>Pre-requisites</h2>
 <p>Have installed nmap</p>
 
-<h2>Installation</h2>
+<h2>Installation & Usage</h2>
 
 ```shell
   ~$ git clone https://github.com/activePort/TurboScann.git
