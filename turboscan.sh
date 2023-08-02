@@ -39,4 +39,4 @@ sed -i "2i <link rel='stylesheet' type='text/css' href='$css_file'>" scan_result
 
 # Abrir el archivo HTML en un navegador web
 echo "Mostrando el resultado en el navegador..."
-firefox scan_result.html
+sudo -u $SUDO_USER xdg-open scan_result.html
